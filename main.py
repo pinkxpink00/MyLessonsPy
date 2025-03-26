@@ -46,3 +46,20 @@
 #     for i in range(2):
 #         print(i)
 
+
+# for i in range(1,11):
+#
+#     if i % 2 == 0:
+#         continue
+#
+#     if i == 7:
+#         break
+#     print(i)
+
+
+# for i in "Hello World":
+#     if i == "l":
+#         print("Done")
+#         break
+# else:
+#     print("Not found")
